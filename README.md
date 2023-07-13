@@ -2,7 +2,7 @@
 
 Provides access to Buy and Sell prices of USD in LBP
 
-#You will need:
+# You will need:
 
 - ChromeDriver (ensure it matches your Chrome browser version)
 - Selenium
