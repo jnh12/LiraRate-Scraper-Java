@@ -1,11 +1,13 @@
 # LiraRate-Scraper-Java
 
-You will need:
+Provides access to Buy and Sell prices of USD in LBP
+
+#You will need:
 
 - ChromeDriver (ensure it matches your Chrome browser version)
 - Selenium
 
-## Pointers
+# Pointers
 
 1. Clone the repository to your local machine.
 
