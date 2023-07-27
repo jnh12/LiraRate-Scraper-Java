@@ -1,6 +1,6 @@
 # LiraRate-Scraper-Java
 
-Provides access to Buy and Sell prices of USD in LBP
+Provides access to Buy and Sell prices of USD in LBP, scraped from lirarate.org
 
 # You will need:
 
