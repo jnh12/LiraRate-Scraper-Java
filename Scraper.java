@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class Scraper {
     public static void main(String[] args) {
     	
-    	//String proxy = "137.184.232.148:80";
+    	//String proxy = "137.184.232.148:80 -- THIS IS AN EXAMPLE PROXY";
         //chromeOptions.addArguments("--proxy-server=" + proxy);   
     	//only necessary if you want to route your web traffic through a proxy server
     	
